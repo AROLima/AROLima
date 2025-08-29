@@ -46,12 +46,9 @@ J’accorde de l’importance à la **DX**, aux performances et aux détails.
 
 <!-- Databases -->
 <img alt="PostgreSQL" title="PostgreSQL" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img alt="MySQL"      title="MySQL"      height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="H2"         title="H2"         height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" />
 
 <!-- Tools -->
 <img alt="Git"        title="Git"         height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Docker"     title="Docker"      height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img alt="Linux"      title="Linux"       height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Swagger"    title="Swagger / OpenAPI" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 <img alt="Insomnia"   title="Insomnia"    height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
