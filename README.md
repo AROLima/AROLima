@@ -13,12 +13,12 @@
 
 ## 🇬🇧 EN
 **Building clean backends and delightful UIs.**  
-Focus: **Java/Spring Boot**, **Angular (PWA)**, **Flutter (mobile)**.  
+Focus: **Java/Spring Boot**, **Angular**, **Flutter (mobile)**.  
 I care about **DX**, performance, and pixel-polish.
 
 ## 🇫🇷 FR
 **Je construis des backends propres et des interfaces soignées.**  
-Focus : **Java/Spring Boot**, **Angular (PWA)**, **Flutter (mobile)**.  
+Focus : **Java/Spring Boot**, **Angular**, **Flutter (mobile)**.  
 J’accorde de l’importance à la **DX**, aux performances et aux détails.
 
 ---
