@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🐇 Rodrigo — Full-Stack Developer  
+# 🐇 Anderson Rodrigo Lima — Full-Stack Developer  
 **Spring Boot • Angular • React**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AROLima&style=flat-square)](https://github.com/AROLima)
