@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🐇 Anderson Rodrigo Lima — Full-Stack Developer  
@@ -54,6 +53,11 @@ J’accorde de l’importance à la **DX**, aux performances et aux détails.
 <img alt="Insomnia"   title="Insomnia"    height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
 
 </div>
+
+<p align="center">
+  <b>Based in</b>
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" alt="Brazil flag" width="20" height="20" />
+</p>
 
 ---
 
