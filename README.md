@@ -3,6 +3,8 @@
 # 🐇 Anderson Rodrigo Lima — Full-Stack Developer  
 **Spring Boot • Angular • React**
 
+<p><b>Based in</b> 🇧🇷 Brazil</p>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=AROLima&style=flat-square)](https://github.com/AROLima)
 [![Made with Love](https://img.shields.io/badge/made%20with-love-ff69b4?style=flat-square)](#)
 
@@ -54,17 +56,11 @@ J’accorde de l’importance à la **DX**, aux performances et aux détails.
 
 </div>
 
-<p align="center">
-  <b>Based in</b>
-  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" alt="Brazil flag" width="20" height="20" />
-</p>
-
 ---
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/anderson-de-oliveiralima)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-ea4335?logo=gmail&style=flat-square)](mailto:rodrigo.lima546@hotmail.com)
-
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AROLima&show_icons=true&theme=transparent)
 
