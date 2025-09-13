@@ -3,7 +3,7 @@
 # 🐇 Anderson Rodrigo Lima — Full-Stack Developer  
 **Spring Boot • Angular • React**
 
-<p><b>Based in</b> 🇧🇷 Brazil</p>
+<p><b>Based in</b> 🇧🇷</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AROLima&style=flat-square)](https://github.com/AROLima)
 [![Made with Love](https://img.shields.io/badge/made%20with-love-ff69b4?style=flat-square)](#)
