@@ -62,8 +62,6 @@ J’accorde de l’importance à la **DX**, aux performances et aux détails.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/anderson-de-oliveiralima)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-ea4335?logo=gmail&style=flat-square)](mailto:rodrigo.lima546@hotmail.com)
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AROLima&show_icons=true&theme=transparent)
-
 <div align="center">
   
 _« Livrer. Apprendre. Peaufiner. Recommencer. »_  
