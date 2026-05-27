@@ -43,7 +43,6 @@ J’accorde de l’importance à la **DX**, aux performances et aux détails.
 <img alt="Flutter"    title="Flutter"     height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img alt="HTML5"      title="HTML5"       height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS3"       title="CSS3"        height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img alt="Tailwind"   title="Tailwind"    height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <!-- Databases -->
 <img alt="PostgreSQL" title="PostgreSQL" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
